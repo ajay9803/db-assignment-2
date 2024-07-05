@@ -17,6 +17,8 @@ This repository contains SQL queries designed to retrieve various results from a
 9. Average Age of Students Enrolled in Science Course
 10. Grade of Students Enrolled in the History Course
 
-## The `results` is included in the `Database Assignment 2.pdf` with both: The queries and the results.
+## Others
 
-## The png's contain the ER Diagram for the books-store schema and students-data schema
+The `results` is included in the `Database Assignment 2.pdf` with both: The queries and the results.
+
+The png's contain the ER Diagram for the books-store schema and students-data schema
